@@ -15,5 +15,5 @@ let randomNumber = Math.random(0, 20)
 
 let randomInteger = Math.floor(randomNumber)
 
-let randomUserID = Math.random (1000000001, 1000000020)
+let randomUserID = 
 //1000000000  <inclusive   exclusive >1000000020
