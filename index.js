@@ -11,6 +11,6 @@ let newID = 1000000000 + oldID;
 
 let ageIsValid = Number.isInteger();
 
-let randomNumber = Math.random(1000000000, 1000000020)
+let randomNumber = Math.random(0, 20)
 
 //1000000000  <inclusive   exclusive >1000000020
