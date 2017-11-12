@@ -13,4 +13,5 @@ let ageIsValid = Number.isInteger();
 
 let randomNumber = Math.random(0, 20)
 
+let randomInteger = Math.floor(randomNumber)
 //1000000000  <inclusive   exclusive >1000000020
